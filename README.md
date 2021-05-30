@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Pedroodcp&count_private=true&show_icons=true&hide=stars&theme=react&line_height=30" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Pedroodcp&amp;show_icons=true&amp;theme=chartreuse-dark&amp;line_height=30" />
 </p>
 
 [![Twitter](https://img.shields.io/badge/-@Pedroodcp-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Pedroodcp)](https://twitter.com/Pedroodcp)
